@@ -1,5 +1,5 @@
 {
     "type": "esp32-fota-http",
-    "version": "2.5.1",
+    "version": "1.0.3",
     "url": "https://raw.githubusercontent.com/fun-daz-dig/vidar-test/main/firmware.bin"
 }
