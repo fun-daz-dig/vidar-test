@@ -8,5 +8,10 @@
       "type":"esp32-fota-http",
       "version": "1.0.8",
       "url": "https://raw.githubusercontent.com/fun-daz-dig/vidar-test/main/firmware-1-8.bin"
+   },
+   {
+      "type":"esp32-fota-http",
+      "version": "1.1.5",
+      "url": "https://raw.githubusercontent.com/fun-daz-dig/vidar-test/main/firmware-1-1-5.bin"
    }
 ]
