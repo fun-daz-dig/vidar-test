@@ -1,9 +1,3 @@
-{
-    "type": "esp32-fota-http",
-    "version": "1.0.4",
-    "url": "https://raw.githubusercontent.com/fun-daz-dig/vidar-test/main/firmware.bin"
-}
-
 [
    {
       "type":"esp32-fota-http",
